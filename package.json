@@ -9,10 +9,13 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@arcjet/inspect": "^1.0.0-beta.15",
+    "@arcjet/next": "^1.0.0-beta.15",
     "@clerk/nextjs": "^6.35.5",
     "@radix-ui/react-slot": "^1.2.4",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
+    "convex": "^1.29.3",
     "lucide-react": "^0.555.0",
     "motion": "^12.23.24",
     "next": "16.0.6",

@@ -37,7 +37,7 @@ function Hero() {
       router.push('/sign-in')
       return
     }
-
+    router.push('/create-new-trip')
     console.log("User is logged in, send message…")
   }
 
